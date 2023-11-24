@@ -1,5 +1,3 @@
-import React from "react";
-
 const WorkoutDetails = ({ workout }) => {
   return (
     <div className="workout-details">
